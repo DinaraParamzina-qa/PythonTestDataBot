@@ -1,5 +1,5 @@
 import telebot, wikipedia, re
-bot = telebot.TeleBot('6163676187:AAF2cMJ7OoxWSF0m0KipcQcOnjwlCdGNay8')
+bot = telebot.TeleBot('здесь будет ваш токен')
 wikipedia.set_lang("ru")
 def getwiki(s):
     try:
